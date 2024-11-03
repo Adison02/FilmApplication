@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\Filmy\\FilmApplication\\FilmApplication.csproj",
+      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\FilmApplication\\FilmApplication\\FilmApplication.csproj",
       "projectName": "FilmApplication",
-      "projectPath": "C:\\Users\\Adrian\\Desktop\\Filmy\\FilmApplication\\FilmApplication.csproj",
+      "projectPath": "C:\\Users\\Adrian\\Desktop\\FilmApplication\\FilmApplication\\FilmApplication.csproj",
       "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adrian\\Desktop\\Filmy\\FilmApplication\\obj\\",
+      "outputPath": "C:\\Users\\Adrian\\Desktop\\FilmApplication\\FilmApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config"

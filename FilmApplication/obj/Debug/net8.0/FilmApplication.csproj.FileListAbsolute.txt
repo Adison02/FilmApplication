@@ -28,3 +28,4 @@ C:\Users\Adrian\Desktop\Filmy\FilmApplication\obj\Debug\net8.0\refint\FilmApplic
 C:\Users\Adrian\Desktop\Filmy\FilmApplication\obj\Debug\net8.0\FilmApplication.pdb
 C:\Users\Adrian\Desktop\Filmy\FilmApplication\obj\Debug\net8.0\FilmApplication.genruntimeconfig.cache
 C:\Users\Adrian\Desktop\Filmy\FilmApplication\obj\Debug\net8.0\ref\FilmApplication.dll
+C:\Users\Adrian\Desktop\Filmy\FilmApplication\obj\Debug\net8.0\FilmApplication.sourcelink.json
