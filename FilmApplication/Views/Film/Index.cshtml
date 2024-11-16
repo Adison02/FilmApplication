@@ -4,10 +4,10 @@
     ViewData["Title"] = "Index";
 }
 
-<h1> Hello @(ViewBag.FirstName ?? "Guest") </h1>
+<h1> Hello <span class="fw-bold under text-black">@(ViewBag.FirstName ?? "Guest")!</span> </h1>
 
 <p>
-    <a asp-action="Create">Create</a>
+    <a asp-action="Create">Create new film!</a>
     
     <table class="table">
         <thead>

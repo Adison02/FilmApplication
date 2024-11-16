@@ -24,7 +24,7 @@ public class DataModel
 
     [Required(ErrorMessage = "Please enter your phone number")]
     [Phone(ErrorMessage = "Please enter a valid phone number")]
-    public required string PhoneNumber { get; set; }
+    public string? PhoneNumber { get; set; }
 
     [Required(ErrorMessage = "Please enter your age")]
     [Range(10, 80, ErrorMessage = "Age must be between 10 and 80")]
