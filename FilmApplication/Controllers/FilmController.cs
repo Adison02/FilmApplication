@@ -13,8 +13,9 @@ public class FilmController : Controller
         new() { ID = 3, Title = "The Dark Knight", Description = "The Dark Knight", Price = 14},
     };
 
-    public IActionResult Index()
+    public IActionResult Index(string firstName)
     {
+        ViewBag.FirstName = firstName;
         return View(Films);
     }
 
@@ -36,7 +37,7 @@ public class FilmController : Controller
             return NotFound();
 
         Films.Remove(film);
-        return RedirectToAction(nameof(Index));
+        return RedirectToAction(nameof(Index), new { ViewBag.FirstName });
     }
 
     public IActionResult Edit(int id)
